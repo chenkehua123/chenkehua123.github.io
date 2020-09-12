@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/2020/09/12/head/</url>
-    <content><![CDATA[<!-- Highlight.js -->
-<link href="https://cdn.bootcdn.net/ajax/libs/highlight.js/9.18.1/styles/a11y-dark.min.css" rel="stylesheet">
-<script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>]]></content>
-  </entry>
-  <entry>
-    <title>Welcome to my blog</title>
-    <url>/2020/09/11/hello-world/</url>
+    <title>欢迎来到我的博客</title>
+    <url>/2020/09/12/first-world%20/</url>
     <content><![CDATA[<p>我知道现在可能说这话有点不合时宜，毕竟博客时代都已经过去了，再号召大家用过就好像时的东西是不是有点逆流而上？</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre>
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -20,6 +12,22 @@
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>欢迎来到我的博客</title>
+    <url>/2020/09/11/hello-world/</url>
+    <content><![CDATA[<p>我知道现在可能说这话有点不合时宜，毕竟博客时代都已经过去了，再号召大家用过就好像时的东西是不是有点逆流而上？</p>
+<h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><h3 id="积累更多的知识"><a href="#积累更多的知识" class="headerlink" title="积累更多的知识"></a>积累更多的知识</h3><p>写并不是单纯的写。</p>
+<p>例如我写着写着，突然忘记了一个概念，于是上网找，找回来这个概念的时候，重温了这个概念，可能还会顺便看了一下这个概念的其他东西。</p>
+<p>例如当需要获取第一手的资料，寻找信息来源本身就是一个知识积累的过程，同时，我还会慢慢就学会了鉴别知识：什么是没有用的心灵鸡汤，什么是不值得关注的吐槽名人，还有，在这个过程中，提升了我的心智。</p>
+<h3 id="提高将事情讲清楚的能力"><a href="#提高将事情讲清楚的能力" class="headerlink" title="提高将事情讲清楚的能力"></a>提高将事情讲清楚的能力</h3><p>很多东西你以为懂了，但当你在写下来的时候，你就觉得无从下手了。</p>
+<p>将事情写下来，慢慢就可以提高你的逻辑思维能力，分析能力，写会迫使你在你脑中搭建一个有条理的框架。例如我写这篇文章一样，我就将值得写博客的原因一点一点地罗列出来，事情就更加清晰，你也可以更好的思考问题。</p>
+<h3 id="帮你找到志同道合的人"><a href="#帮你找到志同道合的人" class="headerlink" title="帮你找到志同道合的人"></a>帮你找到志同道合的人</h3><p>在微博，在朋友圈，你可能找不到跟你志同道合的人，而在博客，你可以通过看他的几篇文章就迅速地理解认同这个人，即使你没有见过这个人，但你也可以通过这种关联来相互学习。</p>
+<p>如果你在一个领域有相当的了解，你将这些内容发在网络上，网络上跟你志趣相投的人也会被你吸引过来，根据吸引力法则，你是怎样的人你就被怎么样的人吸引，这就是博客所能赋予你的魅力。</p>
+<h3 id="记录成长"><a href="#记录成长" class="headerlink" title="记录成长"></a>记录成长</h3><p>隔一段时间，你再回头看你写的博客，你会发现自己正在通过这样的方式在不断的成长，这种成长在自己眼里是一种财富，在别人眼里是一张地图，你得到了收获，不断修正自己的错误，别人得到了指引，避免走弯路。</p>
+<p>更多的情况是当你回望自己的时候你会发现自己是一个傻逼，so what，that is what I am！</p>
+<p>转载处: <a href="https://hexo.io/docs/one-command-deployment.html">here</a></p>
 ]]></content>
   </entry>
 </search>
