@@ -2,20 +2,6 @@
 <search>
   <entry>
     <title>欢迎来到我的博客</title>
-    <url>/2020/09/12/first-world%20/</url>
-    <content><![CDATA[<p>我知道现在可能说这话有点不合时宜，毕竟博客时代都已经过去了，再号召大家用过就好像时的东西是不是有点逆流而上？</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>欢迎来到我的博客</title>
     <url>/2020/09/11/hello-world/</url>
     <content><![CDATA[<p>我知道现在可能说这话有点不合时宜，毕竟博客时代都已经过去了，再号召大家用过就好像时的东西是不是有点逆流而上？</p>
 <h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><h3 id="积累更多的知识"><a href="#积累更多的知识" class="headerlink" title="积累更多的知识"></a>积累更多的知识</h3><p>写并不是单纯的写。</p>
@@ -27,7 +13,7 @@
 <p>如果你在一个领域有相当的了解，你将这些内容发在网络上，网络上跟你志趣相投的人也会被你吸引过来，根据吸引力法则，你是怎样的人你就被怎么样的人吸引，这就是博客所能赋予你的魅力。</p>
 <h3 id="记录成长"><a href="#记录成长" class="headerlink" title="记录成长"></a>记录成长</h3><p>隔一段时间，你再回头看你写的博客，你会发现自己正在通过这样的方式在不断的成长，这种成长在自己眼里是一种财富，在别人眼里是一张地图，你得到了收获，不断修正自己的错误，别人得到了指引，避免走弯路。</p>
 <p>更多的情况是当你回望自己的时候你会发现自己是一个傻逼，so what，that is what I am！</p>
-<p>转载处: <a href="https://hexo.io/docs/one-command-deployment.html">here</a></p>
+<p>转载处: <a href="https://zhuanlan.zhihu.com/p/19743861">here</a></p>
 ]]></content>
   </entry>
 </search>
