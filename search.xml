@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/2020/09/12/head/</url>
-    <content><![CDATA[<!-- Highlight.js -->
-<link href="https://cdn.bootcdn.net/ajax/libs/highlight.js/9.18.1/styles/a11y-dark.min.css" rel="stylesheet">
-<script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>]]></content>
-  </entry>
-  <entry>
     <title>Welcome to my blog</title>
     <url>/2020/09/11/hello-world/</url>
     <content><![CDATA[<p>我知道现在可能说这话有点不合时宜，毕竟博客时代都已经过去了，再号召大家用过就好像时的东西是不是有点逆流而上？</p>
@@ -21,5 +13,13 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2020/09/12/head/</url>
+    <content><![CDATA[<!-- Highlight.js -->
+<link href="https://cdn.bootcdn.net/ajax/libs/highlight.js/9.18.1/styles/a11y-dark.min.css" rel="stylesheet">
+<script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>]]></content>
   </entry>
 </search>
