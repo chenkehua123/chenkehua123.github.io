@@ -400,9 +400,14 @@
                 console.error('Failed to save visitor count', error);
               });
           } else {
-              leancloudSelector(url).innerText = 'Counter not initialized! More info at console err msg.';
-              console.error('ATTENTION! LeanCloud counter has security bug, see how to solve it here: https://github.com/theme-next/hexo-leancloud-counter-security. \n However, you can still use LeanCloud without security, by setting `security` option to `false`.');
-            
+              Counter('post', '/classes/Counter', { title, url, time: 1 })
+                .then(response => response.json())
+                .then(() => {
+                  leancloudSelector(url).innerText = 1;
+                })
+                .catch(error => {
+                  console.error('Failed to create', error);
+                });
           }
         })
         .catch(error => {
@@ -429,7 +434,7 @@
         });
     }
 
-    const { app_id, app_key, server_url } = {"enable":true,"app_id":"LfKXS3Upyh66wcCHJkEk0k20-gzGzoHsz","app_key":"6MK24ewcwhu1ltUsJr4ysskd","server_url":null,"security":true};
+    const { app_id, app_key, server_url } = {"enable":true,"app_id":"LfKXS3Upyh66wcCHJkEk0k20-gzGzoHsz","app_key":"6MK24ewcwhu1ltUsJr4ysskd","server_url":null,"security":false};
     function fetchData(api_server) {
       const Counter = (method, url, data) => {
         return fetch(`${api_server}/1.1${url}`, {
@@ -474,7 +479,7 @@ NexT.utils.loadComments('#valine-comments', () => {
     new Valine(Object.assign({
       el  : '#valine-comments',
       path: "/tags/",
-    }, {"enable":true,"appId":"c0vQ8gC2C99GDUqpJoU4c4Nr-gzGzoHsz","appKey":"T52HGTmpHkadgGTm6Sdy32pn","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"serverURLs":null,"enableQQ":false,"requiredFields":[]}
+    }, {"enable":true,"appId":"LfKXS3Upyh66wcCHJkEk0k20-gzGzoHsz","appKey":"6MK24ewcwhu1ltUsJr4ysskd","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"serverURLs":null,"enableQQ":false,"requiredFields":[]}
     ));
   }, window.Valine);
 });
