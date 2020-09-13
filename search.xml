@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>欢迎来到我的博客</title>
+    <title>hadoop</title>
     <url>/2020/09/13/first-world/</url>
-    <content><![CDATA[<p>准备开始写hadoop大数据。</p>
+    <content><![CDATA[<p>开始学习hadoop大数据。</p>
 <ul>
 <li>Another Tag</li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
   </entry>
   <entry>
     <title>欢迎来到我的博客</title>
