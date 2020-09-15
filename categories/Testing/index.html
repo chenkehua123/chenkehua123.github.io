@@ -184,9 +184,9 @@
 
       <section class="site-overview-wrap sidebar-panel">
         <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="chenkehua123"
+    <img class="site-author-image" itemprop="image" alt="Author"
       src="/images/avatar.gif">
-  <p class="site-author-name" itemprop="name">chenkehua123</p>
+  <p class="site-author-name" itemprop="name">Author</p>
   <div class="site-description" itemprop="description"></div>
 </div>
 <div class="site-state-wrap animated">
@@ -339,7 +339,28 @@
     <div class="footer-inner">
       
 
-      
+      <!-- 运行天数 -->
+  <ul>
+    <li><span id="runtime_span"></span></li>
+  </ul>
+<script type="text/javascript">     
+    function show_runtime() {
+        window.setTimeout("show_runtime()", 1000);
+        X = new Date("02/22/2020 22:22:22");
+        Y = new Date();
+        T = (Y.getTime() - X.getTime());
+        M = 24 * 60 * 60 * 1000;
+        a = T / M;
+        A = Math.floor(a);
+        b = (a - A) * 24;
+        B = Math.floor(b);
+        c = (b - B) * 60;
+        C = Math.floor((b - B) * 60);
+        D = Math.floor((c - C) * 60);
+        runtime_span.innerHTML = "赶工ing: " + A + "天" + B + "小时" + C + "分" + D + "秒"
+    }
+  show_runtime();
+</script>
 
 <div class="copyright">
  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -350,7 +371,7 @@
   <span class="with-love">
     <i class="fa fa-heart"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">chenkehua123</span>
+  <span class="author" itemprop="copyrightHolder">Author</span>
 </div>
 
 <!--
@@ -360,7 +381,7 @@
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共646字</span>
+  <span class="post-count">博客全站共642字</span>
 </div>
     </div>
   </footer>
