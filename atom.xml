@@ -6,7 +6,7 @@
   <link href="https://chenkehua123.xyz/atom.xml" rel="self"/>
   
   <link href="https://chenkehua123.xyz/"/>
-  <updated>2020-09-15T11:41:59.181Z</updated>
+  <updated>2020-09-20T07:33:07.882Z</updated>
   <id>https://chenkehua123.xyz/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test1</title>
+    <link href="https://chenkehua123.xyz/2020/09/20/test1/"/>
+    <id>https://chenkehua123.xyz/2020/09/20/test1/</id>
+    <published>2020-09-20T07:33:07.000Z</published>
+    <updated>2020-09-20T07:33:07.882Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试2</title>
+    <link href="https://chenkehua123.xyz/2020/09/20/%E6%B5%8B%E8%AF%952/"/>
+    <id>https://chenkehua123.xyz/2020/09/20/%E6%B5%8B%E8%AF%952/</id>
+    <published>2020-09-20T07:29:45.000Z</published>
+    <updated>2020-09-20T07:48:43.693Z</updated>
+    
+    <content type="html"><![CDATA[<p>用来测试的话</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;用来测试的话&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="用来测试的分类" scheme="https://chenkehua123.xyz/categories/%E7%94%A8%E6%9D%A5%E6%B5%8B%E8%AF%95%E7%9A%84%E5%88%86%E7%B1%BB/"/>
+    
+    
+    <category term="测试两条标签" scheme="https://chenkehua123.xyz/tags/%E6%B5%8B%E8%AF%95%E4%B8%A4%E6%9D%A1%E6%A0%87%E7%AD%BE/"/>
+    
+    <category term="第二条的标签" scheme="https://chenkehua123.xyz/tags/%E7%AC%AC%E4%BA%8C%E6%9D%A1%E7%9A%84%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>hadoop</title>
